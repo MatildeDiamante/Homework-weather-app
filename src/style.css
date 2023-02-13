@@ -1,0 +1,55 @@
+h1 {
+  font-size: 45px;
+  margin-top: 15px;
+}
+h2 {
+  font-size: 60px;
+  margin: -65px 0;
+  text-align: right;
+}
+a {
+  font-size: 18px;
+  text-decoration: none;
+  text-align: end;
+}
+h3 {
+  margin-top: -10px;
+}
+.container {
+  max-width: 50%;
+  border: 2px solid gray;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 30px;
+}
+.search-bar {
+  width: 60%;
+  margin-right: 30px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.search-button {
+  padding: 10px 20px;
+  border: 2px solid #0b5ed7;
+}
+.location-button {
+  padding: 10px 20px;
+  background: #0bd759;
+  border: 2px solid #0bd759;
+  margin-left: 20px;
+}
+#celsius-link {
+  display: block;
+  margin-right: -20px;
+}
+.sun {
+  font-size: 60px;
+  text-align: right;
+  display: block;
+  margin: 0 auto;
+  margin-top: -40px;
+  margin-right: -110px;
+}
+.emoji {
+  font-size: 35px;
+}
