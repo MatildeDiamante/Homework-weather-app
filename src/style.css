@@ -53,3 +53,11 @@ h3 {
 .emoji {
   font-size: 35px;
 }
+footer {
+  text-align: center;
+  font-size: 15px;
+}
+footer .link {
+  text-decoration: underline;
+  font-size: 15px;
+}
